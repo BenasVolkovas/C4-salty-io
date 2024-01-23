@@ -1,3 +1,7 @@
+.notes.md
+out/
+cache/
+
 # Logs
 logs
 *.log
